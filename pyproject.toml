@@ -1,5 +1,5 @@
 [tool.commitizen]
-version = "0.2.1"
+version = "0.3.0"
 version_files = ["src/asd_asd/_version.py"]
 changelog_file = "docs/changelog.md"
 update_changelog_on_bump = true

@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.3.0 (2021-05-23)
+
+### Fix
+
+- fix problem
+
+### Feat
+
+- add second function
+
 ## 0.2.1 (2021-05-23)
 
 ### Fix
