@@ -16,3 +16,9 @@ def myfunc2(arg2):
 def feat(arg):
     "badly formatted description"
     return arg
+
+
+def newfeat(arg):
+    "mememe"
+    res = arg * 2
+    return res
