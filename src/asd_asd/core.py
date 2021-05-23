@@ -2,3 +2,7 @@
 # -*- coding: utf-8 -*-
 """A module template
 """
+
+
+def myfunc(arg):
+    pass
