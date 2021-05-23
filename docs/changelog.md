@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.4.0 (2021-05-23)
+
+### Feat
+
+- add another new function
+- add new function
+
 ## 0.3.0 (2021-05-23)
 
 ### Fix
