@@ -5,4 +5,4 @@
 
 
 def myfunc(arg):
-    pass
+    return arg
