@@ -9,4 +9,5 @@ def myfunc(arg):
 
 
 def myfunc2(arg2):
+    res = arg2 * 2
     return arg2
