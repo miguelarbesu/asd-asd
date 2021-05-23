@@ -6,3 +6,7 @@
 
 def myfunc(arg):
     return arg
+
+
+def myfunc2(arg2):
+    return arg2
